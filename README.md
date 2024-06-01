@@ -16,3 +16,5 @@ This project requires you to sort a random amount of numbers to be sorted in the
 I've used a simple Algorithm called K-Sort.
 
 (Thanks Azer for showing me such a simple and effective solution - [Azer Github-Profile](https://github.com/AzerSD))
+
+https://github.com/Aerly-Lex/push_swap/assets/117720936/04eec96d-e3a1-4859-9740-11f724f4823b
